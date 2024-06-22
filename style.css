@@ -1,0 +1,51 @@
+body {
+    background-color: #769bffc9;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+.card-principal {
+    background-color: #ffffff;
+    border-radius: 20px;
+    width: 320px;
+    height: 497px;
+    margin-top: 80px;
+    padding: 15px;
+}
+
+.card-qrcode {
+    background-color: #2C7DFA;
+    height: 60%;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto-informativo {
+    padding: 20px;
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+    color: #1F314F;
+    text-align: center;
+    
+}
+
+.descricao {    
+    color: #7D889E;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+.qrcode {
+    width: 90%;
+    height: 90%;
+    }
+
+    .botao-qrcode {
+        display: flex;
+        justify-content: center;
+    }
